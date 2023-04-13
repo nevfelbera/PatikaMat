@@ -4,7 +4,7 @@
 
 #### İşte üçgenlerin bazı önemli özellikleri:
 
-#####Kenar Uzunlukları: 
+##### Kenar Uzunlukları: 
 
   Üçgenlerin kenar uzunlukları, üçgenin özelliklerini belirler. Üçgenin kenar uzunluklarına bağlı olarak, üçgenler eşkenar, ikizkenar veya çeşitkenar olarak sınıflandırılabilir.
 
